@@ -1,0 +1,1 @@
+14 Temmuz: Git branch çalışıp öğrendim.
