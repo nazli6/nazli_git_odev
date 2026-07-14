@@ -1,0 +1,1 @@
+15 Temmuz:Branch üzerinde çalışma yapıp komutları pekiştirdim.
